@@ -1,0 +1,3 @@
+#!/Users/yuken.kijima/.volta/bin/node
+
+console.log("hello, world!");
